@@ -1,2 +1,0 @@
-# Hello-Earth
-My Repo
